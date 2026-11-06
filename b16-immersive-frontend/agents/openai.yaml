@@ -1,0 +1,4 @@
+interface:
+  display_name: "B16 Immersive Frontend"
+  short_description: "Planeja e valida experiências web imersivas"
+  default_prompt: "Use $b16-immersive-frontend para planejar uma experiência web imersiva proporcional ao briefing."
